@@ -1,10 +1,6 @@
 {
-  "release_notes": [
-    "자동 업데이트 기능 추가",
-    "버전 관리 시스템 개선",
-    "프로젝트 구조 정리"
-  ],
-  "version": "1.2.0",
-  "download_url": "https://github.com/infoqmsys-art/Convert_pro3_updates/releases/download/v1.2.0/ConvertPro3_v1.2.exe",
-  "release_date": "2026-01-07"
+    "download_url":  "https://github.com/infoqmsys-art/Convert_pro3_updates/releases/download/v1.2.2/ConvertPro3_v1.2.2.exe",
+    "release_notes":  "踰꾧렇 ?섏젙 諛?媛쒖꽑",
+    "version":  "1.2.2",
+    "release_date":  "2026-01-07"
 }
